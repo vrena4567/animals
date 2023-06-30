@@ -31,4 +31,5 @@
 - ahelyet hogy Dog és Chicken listát használnád használj egy Animal listát és ebbe helyezd a példányokat
 
 ## Folytasd a Main osztályt
+- olvasdbe a vegyes.txt filet
 - példányosíts minden sor alapján egy Dog vagy Chicken objektumot amit adj hozzá egy új Animal listához
