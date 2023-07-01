@@ -1,0 +1,20 @@
+Buksi,3,barna, Ül
+Kócos,4,fehér,Ül-Fekszik-Ide
+Zsömle,1,fehér,Ül
+Rex,5,fekete,Fekszik
+Bodri,2,piros,Ül-Fekszik
+Fifi,7,sárga,Ül-Fekszik-Ide-Oda
+Max,2,fekete,Fekszik-Ide
+Lili,6,barna,Ül-Fekszik-Ide-Oda
+Bubi,4,fehér,Ül-Fekszik-Ide-Oda
+Morzsi,3,barna,Ül-Fekszik-Ide
+Buksi2,1,barna,Ül-Fekszik
+Csibész,4,fekete,Ül-Fekszik-Ide-Oda
+Barna,5,barna,Ül-Fekszik-Ide-Oda
+Szusz,2,fekete,Fekszik-Ide
+Dundi,3,fehér,Ül
+Szőke,4,sárga,Ül-Fekszik
+Bogyó,6,barna,Ül-Fekszik-Ide-Oda
+Dagadt,5,barna,Fekszik
+Rudi,2,fekete,Ül-Fekszik-Ide-Oda
+Csoki,3,fehér,Fekszik

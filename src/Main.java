@@ -16,6 +16,19 @@ public class Main {
         }
         System.out.println(dogList.toString());
 
+        List<Dog> trickDogList = new ArrayList<>();
+        List<String> listOfDogsWithTricks = FileReader.fileReader("res/dogswithtricks.txt");
+        for (var line : listOfDogsWithTricks) {
+            String[] lineAsArray = line.split(",");
+            String name = lineAsArray[0];
+            int age = Integer.parseInt(lineAsArray[1]);
+            String color = lineAsArray[2];
+            String trick = lineAsArray[3];
+            Dog doggy = new Dog(name, age, color, trick);
+            trickDogList.add(doggy);
+        }
+        System.out.println(trickDogList.toString());
+
         List<Chicken> chickenList = new ArrayList<>();
         List<String> listOfChickens = FileReader.fileReader("res/chicken.txt");
         for (var line : listOfChickens) {
